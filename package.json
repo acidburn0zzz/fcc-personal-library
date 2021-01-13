@@ -24,7 +24,7 @@
 		"helmet": "^3.12.1",
 		"mocha": "^5.2.0",
 		"mongodb": "^2.2.16",
-		"mongoose": "^5.2.4",
+		"mongoose": "^5.7.5",
 		"nodemon": "^1.18.3",
 		"pug": "^2.0.3",
 		"xss-filters": "^1.2.7",
